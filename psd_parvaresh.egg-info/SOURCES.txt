@@ -1,0 +1,8 @@
+README.md
+setup.py
+psd-maker/PowerSpectralDensity.py
+psd_parvaresh.egg-info/PKG-INFO
+psd_parvaresh.egg-info/SOURCES.txt
+psd_parvaresh.egg-info/dependency_links.txt
+psd_parvaresh.egg-info/not-zip-safe
+psd_parvaresh.egg-info/top_level.txt

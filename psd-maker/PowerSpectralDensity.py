@@ -83,7 +83,7 @@ class PSD():
         output_df = self.data.merge(right=df, on=feature_2)
         self.data = output_df
         
-        return self.data
+#         return self.data
     
     def power_plr(df):  
         """ The PSD returns new columns that contain objects. To do calcualtions on this data, the object
@@ -112,6 +112,6 @@ class PSD():
     
     def run(self):
         output_df = self.psd_maker()
-        return output_df
+#         return output_df
         power_plr_psd = self.power_plr()
-        return power_plr_psd
+#         return power_plr_psd
